@@ -1,0 +1,388 @@
+{
+  "sections": {
+    "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
+      "type": "banner-slide",
+      "blocks": {
+        "8fc6288d-372e-45df-a8da-4a794678a4f4": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
+            "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
+            "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
+            "title": "Advent mit Kindern gestalten",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "url": "shopify:\/\/pages\/themenseite",
+            "btn_name": "Mehr zum Thema"
+          }
+        },
+        "bda35f88-36c5-4661-a703-9f1ce55cd109": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-WarmDurchHerbstWinter1.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-Handschuhe.jpg",
+            "title": "Warm durch Herbst & Winter",
+            "text": "<p>Was ziehe ich meinem Kind bloss an? Gerade wenn es kühler wird, machen sich viele Eltern Sorgen, dass das Kind friert. Wir haben Erfahrung mit vielen verschiedenen Produkten und Materialien, die wir an unseren mittlerweile über 15 eigenen Kindern in den letzten Jahren ausgiebig getestet haben.<\/p>",
+            "url": "shopify:\/\/pages\/warm-durch-herbst-winter",
+            "btn_name": "Unsere Tipps"
+          }
+        },
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Infobild-Barfuss-Schuhe.jpg",
+            "img2": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "img3": "shopify:\/\/shop_images\/Infobild-warmeSchuhe.jpg",
+            "title": "Barfuss-Schuhe",
+            "text": "<p>Wir sind Fan von Barfuss-Schuhen! Denn sie bieten deinem Kind ein authentisches Barfuss-Gefühl und haben viele Vorteile. Möchtest du wissen, warum Barfuss-Schuhe für die Entwicklung von Kinderfüssen am besten sind?<\/p>",
+            "url": "shopify:\/\/pages\/barfuss-schuhe-fur-kinder",
+            "btn_name": "Mehr zum Thema erfahren"
+          }
+        },
+        "24910c9d-15a9-4196-9b65-cc074f34c723": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/image-left.png",
+            "img2": "shopify:\/\/shop_images\/Main_image.png",
+            "img3": "shopify:\/\/shop_images\/image-rigt.png",
+            "title": "Schwangerschaft & Geburt",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. Commodo aliquet felis imperdiet maecenas eget morbi. Sit mi metus quam sed enim. Urna odio enim donec commodo convallis. Tellus facilisis quisque tortor ipsum leo mi. Turpis sed.<\/p>",
+            "url": "#",
+            "btn_name": "Jetzt einkaufen"
+          }
+        }
+      },
+      "block_order": [
+        "8fc6288d-372e-45df-a8da-4a794678a4f4",
+        "bda35f88-36c5-4661-a703-9f1ce55cd109",
+        "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
+        "24910c9d-15a9-4196-9b65-cc074f34c723"
+      ],
+      "settings": {
+      }
+    },
+    "93c6b928-f3db-48ae-8d88-b0183db2c048": {
+      "type": "section-product-collection",
+      "disabled": true,
+      "settings": {
+        "bg": "#F4F1EA",
+        "title": "Bestsellers",
+        "show_contant": true,
+        "align-mobile": "left",
+        "slider_type": "list-products-swiper-1",
+        "collection": "all"
+      }
+    },
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
+      "type": "section-our",
+      "blocks": {
+        "b36b2098-d211-431d-acd0-23649bf238c2": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.<\/p>",
+            "url": "shopify:\/\/collections\/disana-herbst-winter",
+            "btn_name": "Zu Disana"
+          }
+        },
+        "8038429f-adf3-48b3-93d2-f37c76eec66f": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
+            "url": "shopify:\/\/collections\/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
+          }
+        },
+        "05f71cf6-7b93-47b0-b56f-f77333c12898": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Strumphosen-socken.jpg",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
+            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
+            "btn_name": "Strumpfis & Co"
+          }
+        },
+        "0f45442c-cec0-47c4-8890-45ecdabc70da": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Muetzen.jpg",
+            "title": "Mützen",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm.<\/p>",
+            "url": "shopify:\/\/collections\/mutzen-stirnbander",
+            "btn_name": "Mützen & Stirnbänder"
+          }
+        }
+      },
+      "block_order": [
+        "b36b2098-d211-431d-acd0-23649bf238c2",
+        "8038429f-adf3-48b3-93d2-f37c76eec66f",
+        "05f71cf6-7b93-47b0-b56f-f77333c12898",
+        "0f45442c-cec0-47c4-8890-45ecdabc70da"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Für den Herbst & Winter"
+      }
+    },
+    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {
+      "type": "section-with-text-btn",
+      "settings": {
+        "title": "Tragejacken für Herbst & Winter",
+        "text": "<p>Beim Tragen profitiert dein Baby direkt von deiner Körperwärme. Damit ihr auch bei kühlerem Wetter gut angezogen seid, gibt es Tragejacken- und Pullis, die den Wärmeaustausch optimal unterstützen.<\/p>",
+        "url": "shopify:\/\/pages\/tragen-im-herbst-und-winter",
+        "btn_name": "Mehr zum Thema erfahren"
+      }
+    },
+    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b": {
+      "type": "section-full-image",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/mamalila_OJSpro-gr_stineogjarlen_2_1_1.png"
+      }
+    },
+    "a0cd7d12-bf7a-4e82-8365-6c3379aab588": {
+      "type": "section-product-collection",
+      "disabled": true,
+      "settings": {
+        "bg": "#FAF8F3",
+        "title": "Dieses Jahr neu bei uns: fun2bemom",
+        "show_contant": false,
+        "align-mobile": "left",
+        "slider_type": "list-products-swiper-2",
+        "collection": "all"
+      }
+    },
+    "32304844-b226-476a-b89c-c9bad2a32f6b": {
+      "type": "section-slider",
+      "blocks": {
+        "02065589-9646-4f28-9c02-75fe8ca54b3b": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Warme.jpg",
+            "title": "Warme Umstands-& Tragejacken",
+            "text": "<p>Für richtig kalte Tage bist du mit einer sportlichen, funktionalen Winterjacke oder einem schicken Wollmantel gut gerüstet. Die Jacke kannst du auch ohne Baby verwenden.<\/p>",
+            "url": "shopify:\/\/collections\/warme-umstands-tragejacken",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
+        "e676cca9-7ed7-4238-9fc1-bf237e460203": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Ganzjahr.jpg",
+            "title": "Tragejacken fürs ganze Jahr",
+            "text": "<p>Du möchtest eine Umstands- & Tragejacke, die du das ganze Jahr über verwenden kannst? Dann wähle eine Softshelljacke oder einen leichten Mantel.<\/p>",
+            "url": "shopify:\/\/collections\/umstands-tragejacken-furs-ganze-jahr",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
+        "99614f5f-712b-45d9-b81c-35dc9b17ed70": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Mood3_1.png",
+            "title": "Tragejacken für Männer",
+            "text": "<p>Auch Väter sollen ihr Baby warm und kuschlig tragen dürfen. Wähle zwischen Hoodies, Softshell-Jacken oder Wintermänteln für Männer.<\/p>",
+            "url": "shopify:\/\/collections\/tragejacken-fur-mannertragejacken-fur-manner",
+            "btn_name": "Jetzt einkaufen"
+          }
+        },
+        "2129a232-6fc7-482c-89ad-94e0d89cc98b": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Collection-Umstands-Tragejacken-Leichte.jpg",
+            "title": "Leichte Umstands- & Tragejacken",
+            "text": "<p>Hoodies oder Sweatjacken zum Tragen eignen sich für wärmere Tage oder als erste Schicht unter einer Softshell- oder Regen-Tragejacke.<\/p>",
+            "url": "shopify:\/\/collections\/leichte-umstands-tragejacken",
+            "btn_name": "Jetzt einkaufen"
+          }
+        }
+      },
+      "block_order": [
+        "02065589-9646-4f28-9c02-75fe8ca54b3b",
+        "e676cca9-7ed7-4238-9fc1-bf237e460203",
+        "99614f5f-712b-45d9-b81c-35dc9b17ed70",
+        "2129a232-6fc7-482c-89ad-94e0d89cc98b"
+      ],
+      "settings": {
+      }
+    },
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+      "type": "section-our",
+      "blocks": {
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "title": "Adventskalender für Paare",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
+            "url": "shopify:\/\/collections\/paarzeit",
+            "btn_name": "Paarzeit verbringen"
+          }
+        },
+        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
+            "url": "shopify:\/\/collections\/adventskalender",
+            "btn_name": "Adventskalender"
+          }
+        },
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
+        },
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
+            "url": "shopify:\/\/collections\/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        }
+      },
+      "block_order": [
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
+        "b7e797f2-1b5f-4151-a871-182489f8f988",
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8"
+      ],
+      "settings": {
+        "name": "UNSERE EMPFEHLUNGEN",
+        "title": "Für Advent & Weihnachten"
+      }
+    },
+    "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {
+      "type": "section-blog-list",
+      "blocks": {
+        "51d92569-a148-4073-8870-43b954beb646": {
+          "type": "article",
+          "settings": {
+            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+          }
+        },
+        "8841ccf8-b43a-498c-ac79-5c2f4daf6a48": {
+          "type": "article",
+          "settings": {
+            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+          }
+        },
+        "9b334d10-0974-47d1-82e6-eff83fc39c2c": {
+          "type": "article",
+          "settings": {
+            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+          }
+        },
+        "14846c52-4041-4370-9399-ba4592d3f4ae": {
+          "type": "article",
+          "settings": {
+            "article": "news\/lorem-ipsum-dolor-sit-amet-consectetur-mauris-nisi-justo"
+          }
+        }
+      },
+      "block_order": [
+        "51d92569-a148-4073-8870-43b954beb646",
+        "8841ccf8-b43a-498c-ac79-5c2f4daf6a48",
+        "9b334d10-0974-47d1-82e6-eff83fc39c2c",
+        "14846c52-4041-4370-9399-ba4592d3f4ae"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg": "#e5e0d5",
+        "text_color": "#00281d",
+        "name": "Blog",
+        "btn_text": "Go to our blog",
+        "btn_url": "shopify:\/\/blogs\/news"
+      }
+    },
+    "9c9bf7b0-233a-4e77-bba3-785994bab770": {
+      "type": "section-icon-items",
+      "blocks": {
+        "9b58f64f-ffba-4c57-bda0-068ecad80d39": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon.png",
+            "title": "Nachhaltig",
+            "text": "<p>Wir legen grossen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.<\/p>"
+          }
+        },
+        "ceeb4f44-cb89-4599-beb6-04e7a4658e41": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon_2.png",
+            "title": "Artgerecht",
+            "text": "<p>Unser Fokus liegt auf einem liebevollen, bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.<\/p>"
+          }
+        },
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "9b58f64f-ffba-4c57-bda0-068ecad80d39",
+        "ceeb4f44-cb89-4599-beb6-04e7a4658e41",
+        "3bf6ba22-b7eb-40dc-b069-d5133591fbc0"
+      ],
+      "settings": {
+        "title": "Über uns",
+        "text": "<p>Herz an Herz. Das ist mehr als nur ein Geschäft - es ist eine Herzensangelegenheit. Unser Ziel ist es, mehr Natürlichkeit in die Themen Schwangerschaft, Geburt und das Leben mit Baby zurückzubringen. Unser <a href=\"\/pages\/about\" title=\"Über uns\">Team<\/a> besteht aus engagierten Fachfrauen, die sich mit Leidenschaft für dich und dein Baby einsetzen. Unser Herz schlägt im Einklang mit deinem, und wir sind hier, um dich auf deiner Reise durch Schwangerschaft, Geburt und das Leben mit deinem Baby zu begleiten.<\/p>",
+        "url": "shopify:\/\/pages\/philosophie",
+        "btn_name": "Mehr zu unserer Philosophie"
+      }
+    },
+    "87ca8f06-a903-47e5-8e13-7b5d55ff9427": {
+      "type": "section-banner-with-form",
+      "disabled": true,
+      "settings": {
+        "bg": "#a25c3f",
+        "text_color": "#faf8f3",
+        "icon": "shopify:\/\/shop_images\/mail-surprise.svg",
+        "title": "Erhalte 10% Gutschein",
+        "text": "Melde dich zu unserem Newsletter"
+      }
+    },
+    "2ce312ca-1035-4cd3-a33b-f7ea71672691": {
+      "type": "section-banner-location",
+      "settings": {
+        "img": "shopify:\/\/shop_images\/image_92.jpg",
+        "title": "Besuche unseren Laden in Winterthur",
+        "text": "Bei uns im schweizweit grössten Laden für nachhaltige Babyprodukte findest du auf über 250m2 Fläche alles was du für eine bewusste Elternschaft brauchst. Wir bieten erstklassige Beratung, ein entspanntes Einkaufserlebnis und eine kinderfreundliche Atmosphäre.",
+        "address": "Paulstrasse 5, 8400 Winterthur",
+        "tel": "+41 (0)76 325 84 84",
+        "btn_url": "https:\/\/www.herzanherz.ch\/laden\/%C3%B6ffnungszeiten-anfahrt\/"
+      }
+    }
+  },
+  "order": [
+    "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
+    "93c6b928-f3db-48ae-8d88-b0183db2c048",
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
+    "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4",
+    "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
+    "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
+    "32304844-b226-476a-b89c-c9bad2a32f6b",
+    "eb12502c-a978-4a64-8794-299bf7d22d27",
+    "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
+    "9c9bf7b0-233a-4e77-bba3-785994bab770",
+    "87ca8f06-a903-47e5-8e13-7b5d55ff9427",
+    "2ce312ca-1035-4cd3-a33b-f7ea71672691"
+  ]
+}

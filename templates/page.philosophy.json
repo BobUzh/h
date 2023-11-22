@@ -1,0 +1,117 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "16a27f16-b5b6-4838-b516-46c85c826eb0": {
+      "type": "section-about-text",
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "title": "Unsere Philosophie",
+        "text": "<p>Herz an Herz, das ist mehr als nur ein Geschäft - es ist eine Herzensangelegenheit. Unser Ziel ist es, mehr Natürlichkeit in die Themen Schwangerschaft, Geburt und das Leben mit Baby zurückzubringen. Warum? Weil wir fest daran glauben, dass dies das Familienleben erleichtert und entspannt. Wir haben bereits unzählige Male erlebt, wie natürliche Ansätze viele Probleme verhindern und das Familienleben nur davon profitieren kann. <\/p><p>Mit Herz an Herz setzen wir uns für bewusste Elternschaft ein. Wir sind davon überzeugt, dass ein bewusster, natürlicher, artgerechter Umgang mit dem Baby und nachhaltige Entscheidungen in Bezug auf Produkte und Ressourcen eine positive Wirkung auf das Familienleben haben.<\/p><p>Wir freuen uns darauf, von dir zu hören und dich auf deiner Reise durch Schwangerschaft, Geburt und Elternschaft zu unterstützen. Herz an Herz, für eine natürlichere und nachhaltigere Familienwelt.<\/p>",
+        "max_width": 1050
+      }
+    },
+    "760907c0-6404-4e85-bd9b-c0ed55f24ba9": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon.png",
+            "title": "Nachhaltig",
+            "text": "<p>Wir legen grossen Wert auf Nachhaltigkeit. Unsere Produkte sind langlebig und umweltfreundlich, damit du nicht nur das Beste für dein Baby, sondern auch für die Umwelt wählst.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_2.png",
+            "title": "Artgerecht",
+            "text": "<p>Unser Fokus liegt auf einem liebevollen und bedürfnisorientierten Umgang mit Kindern. Unsere Produkte und Beratungen fördern die natürliche Entwicklung deines Kindes.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon_1.png",
+            "title": "Lokal",
+            "text": "<p>Wir bevorzugen lokale Produzenten. Damit unterstützen wir nicht nur die Gemeinschaft, sondern bieten bestmögliche Qualität und verhindern unnötige Transportemissionen.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-1",
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-3",
+        "template--21456765878587__760907c0-6404-4e85-bd9b-c0ed55f24ba9-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fe522614-6050-46db-9a38-d46fcddada7f": {
+      "type": "section-custom-image",
+      "blocks": {
+        "c982f1f9-44d1-4871-9b81-4369ae98d209": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Philosophie1.jpg"
+          }
+        },
+        "d669c420-8d11-4bda-a21e-b34a7b4f0664": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Philosophie2.jpg"
+          }
+        },
+        "bd71dc72-3690-49f4-a339-8647812decf3": {
+          "type": "image",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Philosophie3.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "c982f1f9-44d1-4871-9b81-4369ae98d209",
+        "d669c420-8d11-4bda-a21e-b34a7b4f0664",
+        "bd71dc72-3690-49f4-a339-8647812decf3"
+      ],
+      "settings": {
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "max_width": 1320
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16a27f16-b5b6-4838-b516-46c85c826eb0",
+    "760907c0-6404-4e85-bd9b-c0ed55f24ba9",
+    "fe522614-6050-46db-9a38-d46fcddada7f"
+  ]
+}
