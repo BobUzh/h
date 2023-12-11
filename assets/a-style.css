@@ -876,11 +876,12 @@ button {
   opacity: 1;
   visibility: visible;
 }
-.count-option span {
+.count-option span, .count-option a {
   color: var(--light-green---secondary-text, #828071);
   font-family: Work Sans;
   font-size: 12px;
   font-style: normal;
+  text-decoration: none;
   font-weight: 400;
   line-height: 160%; /* 19.2px */
 }
@@ -1948,6 +1949,8 @@ media-gallery.product_gallery {
   gap: 0 clamp(20px, 5.833vw, 84px) !important;
 }
 .option_content {
+  max-height: 300px;
+  overflow: auto;
   position: absolute;
   top: 85%;
   left: 0;
@@ -2377,7 +2380,7 @@ variant-radios fieldset {
   font-size: 12.594px;
   font-style: normal;
   font-weight: 400;
-  line-height: 26px; /* 206.452% */
+  line-height: 1;
   text-decoration: none;
 }
 .bread-crumb {

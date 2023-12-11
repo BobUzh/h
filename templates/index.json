@@ -3,14 +3,26 @@
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee": {
       "type": "banner-slide",
       "blocks": {
+        "67bececa-9c31-424d-a18a-4a49adda00b5": {
+          "type": "item",
+          "settings": {
+            "img1": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_Karten_Bijde_Hansje_nutcracker.webp",
+            "img2": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Geschenke für leuchtende Kinderaugen",
+            "text": "<p>Weihnachten steht wieder vor der Tür, und damit die Suche nach den perfekten Geschenken für die Kleinen. Bei uns findest du eine inspirierende Auswahl an Geschenken für Kinder von 0 bis etwa 3 Jahren, die nicht nur sinnvoll, nachhaltig und natürlich sind, sondern auch strahlende Augen bei den Kleinen hervorzaubern.<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Zum Geschenke-Guide"
+          }
+        },
         "8fc6288d-372e-45df-a8da-4a794678a4f4": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "img1": "shopify:\/\/shop_images\/Start-Silder-Advent1.jpg",
             "img2": "shopify:\/\/shop_images\/Start-Silder-Advent2_b327cc0d-dbd7-4f3d-ac8a-3f700a78ac0e.jpg",
             "img3": "shopify:\/\/shop_images\/Start-Silder-Advent3.jpg",
             "title": "Advent mit Kindern gestalten",
-            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente steckt. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
+            "text": "<p>Der Familienalltag steckt voller Abenteuer, Rituale und besonderer Momente. Wie du Adventszeit, Weihnachten und den Jahreswechsel für dein Kind unvergesslich gestalten kannst (und warum das eine gute Idee ist) erfährst du hier.<\/p>",
             "url": "shopify:\/\/pages\/themenseite",
             "btn_name": "Mehr zum Thema"
           }
@@ -54,6 +66,7 @@
         }
       },
       "block_order": [
+        "67bececa-9c31-424d-a18a-4a49adda00b5",
         "8fc6288d-372e-45df-a8da-4a794678a4f4",
         "bda35f88-36c5-4661-a703-9f1ce55cd109",
         "6b0e520e-dd49-4d18-87e8-b1ac9b589495",
@@ -74,59 +87,94 @@
         "collection": "all"
       }
     },
-    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
+    "eb12502c-a978-4a64-8794-299bf7d22d27": {
       "type": "section-our",
       "blocks": {
-        "b36b2098-d211-431d-acd0-23649bf238c2": {
+        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
-            "title": "Wollkleidung von Disana",
-            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.<\/p>",
-            "url": "shopify:\/\/collections\/disana-herbst-winter",
-            "btn_name": "Zu Disana"
+            "img": "shopify:\/\/shop_images\/modifizierbares-kletterdreieck-nach-emmi-pikler-ette-tete-fuer-zweijaehrige-geschenke-37-40331-2.jpg",
+            "title": "Etwas Schönes für euer Zuhause",
+            "text": "<p>Ein Kletterdreieck, eine Schaukel oder ein Lern- und Spielturm sind Geschenke, die über viele Jahre Freude machen. Wenn sich mehrere Schenkende daran beteiligen, wird es ein sinnvolles Gemeinschaftsgeschenk.<\/p>",
+            "url": "shopify:\/\/collections\/furs-kinderzimmer",
+            "btn_name": "Geschenke entdecken"
           }
         },
-        "8038429f-adf3-48b3-93d2-f37c76eec66f": {
+        "44ff8293-3505-462f-9c87-f9c28c332b83": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
-            "title": "Warme Barfuss-Schuhe",
-            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
-            "url": "shopify:\/\/collections\/warme-schuhe",
-            "btn_name": "Warme Barfuss-Schuhe"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Fridahild-Haarschmuck-Kinder-Haargummi-Haarschmuck-Stoff-1.webp",
+            "title": "Hübsche Mitbringsel",
+            "text": "<p>Es muss nicht immer etwas Grosses sein. Kleine, ausgewählte Mitbringsel machen genauso viel Freude! Wie wäre es mit wunderhübschen, handgemachten Spängeli? Einem hochwertigen Holzkreisel? Oder etwa einer Wundernuss?<\/p>",
+            "url": "shopify:\/\/collections\/mitbringsel",
+            "btn_name": "Mitbringsel finden"
           }
         },
-        "05f71cf6-7b93-47b0-b56f-f77333c12898": {
+        "52dfc1bb-e625-41fa-861f-c29664072780": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Strumphosen-socken.jpg",
-            "title": "Strumpfhosen & Socken aus Wolle",
-            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
-            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
-            "btn_name": "Strumpfis & Co"
+            "img": "shopify:\/\/shop_images\/Winterthur-Babyladen-Gutschein-Grapat-Holzspielsachen-Together-Holzfiguren_47993_2.jpg",
+            "title": "Weltenbau und stundenlanges freies Spiel",
+            "text": "<p>Holzspiel-Sets ermöglichen offenes und kreatives Spielen, ganz ohne Regeln und mit dem Zauber der kindlichen Fantasie. Die Holzteile und Figuren können nach Lust und Laune sortiert, gestapelt, gezählt, ausgelegt, angeordnet und bespielt werden. Sie können alles darstellen, was dein Kind sich ausdenkt und Teil einer wundervollen bunten Welt werden.<\/p>",
+            "url": "shopify:\/\/collections\/freies-spiel",
+            "btn_name": "Alles fürs freie Spiel"
           }
         },
-        "0f45442c-cec0-47c4-8890-45ecdabc70da": {
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Muetzen.jpg",
-            "title": "Mützen",
-            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm.<\/p>",
-            "url": "shopify:\/\/collections\/mutzen-stirnbander",
-            "btn_name": "Mützen & Stirnbänder"
+            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
+            "title": "Weihnachtsgeschenke Guide",
+            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
+            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
+            "btn_name": "Inspirieren lassen"
+          }
+        },
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+          "type": "item",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
+            "title": "Wichteltürchen",
+            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
+            "url": "shopify:\/\/collections\/wichtelzauber",
+            "btn_name": "Wichtel einladen"
+          }
+        },
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
+            "title": "Adventskalender für Paare",
+            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
+            "url": "shopify:\/\/collections\/paarzeit",
+            "btn_name": "Paarzeit verbringen"
+          }
+        },
+        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
+            "title": "Adventskalender für Kinder",
+            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
+            "url": "shopify:\/\/collections\/adventskalender",
+            "btn_name": "Adventskalender"
           }
         }
       },
       "block_order": [
-        "b36b2098-d211-431d-acd0-23649bf238c2",
-        "8038429f-adf3-48b3-93d2-f37c76eec66f",
-        "05f71cf6-7b93-47b0-b56f-f77333c12898",
-        "0f45442c-cec0-47c4-8890-45ecdabc70da"
+        "ddbc2566-4cd1-45cc-82ba-724076b2eb6d",
+        "44ff8293-3505-462f-9c87-f9c28c332b83",
+        "52dfc1bb-e625-41fa-861f-c29664072780",
+        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
+        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8",
+        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
+        "b7e797f2-1b5f-4151-a871-182489f8f988"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Für den Herbst & Winter"
+        "title": "Sinnvolle Geschenkideen"
       }
     },
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4": {
@@ -209,60 +257,59 @@
       "settings": {
       }
     },
-    "eb12502c-a978-4a64-8794-299bf7d22d27": {
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5": {
       "type": "section-our",
       "blocks": {
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7": {
+        "b36b2098-d211-431d-acd0-23649bf238c2": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Babyladen_Winterthur_Gutscheine_Paarzeit_Adventskalender_Edition_1_Mood_-_Kopie_65799_2.jpg",
-            "title": "Adventskalender für Paare",
-            "text": "<p>Der Paarzeit Adventskalender ist eine wunderschöne Idee für etwas bewusste Zweisamkeit im Advent. Mit inspirierenden, lustigen, nachdenklichen, romantischen Anregungen für eure Partnerschaft.<\/p>",
-            "url": "shopify:\/\/collections\/paarzeit",
-            "btn_name": "Paarzeit verbringen"
+            "img": "shopify:\/\/shop_images\/Winterthur_Babyladen_Gutschein_disana-walkoverall-bio-23-karamell-braun_65196_2.jpg",
+            "title": "Wollkleidung von Disana",
+            "text": "<p>Disana ist DIE Marke, wenn es um funktionale Wollkleidung geht. Wolle passt sich schwankenden Temperaturen perfekt an und hält die Körpertemperatur konstant. Das Kind fühlt sich bei jedem Wetter genau richtig warm.<\/p>",
+            "url": "shopify:\/\/collections\/disana-herbst-winter",
+            "btn_name": "Zu Disana"
           }
         },
-        "b7e797f2-1b5f-4151-a871-182489f8f988": {
+        "8038429f-adf3-48b3-93d2-f37c76eec66f": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Kalender.jpg",
-            "title": "Adventskalender für Kinder",
-            "text": "<p>Adventskalender schüren die Vorfreude und feiern den Zauber der Adventszeit. Wie wäre es mit einer Vorlesegeschichte für die Kleinen? Einem hochwertigen Holzspielzeug-Kalender mit Ideen für schöne Familienmomente? Oder einem Türchen-Kalender ohne Zahlen?<\/p>",
-            "url": "shopify:\/\/collections\/adventskalender",
-            "btn_name": "Adventskalender"
+            "img": "shopify:\/\/shop_images\/Infobild-ErsteSchuhe.jpg",
+            "title": "Warme Barfuss-Schuhe",
+            "text": "<p>Bist du auf der Suche nach einem Barfuss-Schuh für kühlere Tage? Dann schau dir unsere warmen Schuhe an. Sie haben ein Futter (meist aus Wolle) und eignen sich somit perfekt für kühlere Übergangs- und Wintertage.<\/p>",
+            "url": "shopify:\/\/collections\/warme-schuhe",
+            "btn_name": "Warme Barfuss-Schuhe"
           }
         },
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9": {
+        "0f45442c-cec0-47c4-8890-45ecdabc70da": {
           "type": "item",
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Xmas-Guide-Mood2.jpg",
-            "title": "Weihnachtsgeschenke Guide",
-            "text": "<p>Bei uns findest du eine Auswahl an sinnvollen Weihnachtsgeschenken. Lass dich inspirieren!<\/p>",
-            "url": "shopify:\/\/pages\/weihnachtsgeschenke-guide",
-            "btn_name": "Inspirieren lassen"
+            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Muetzen.jpg",
+            "title": "Mützen",
+            "text": "<p>Über den Kopf geht viel Wärme verloren. Eine Mütze ist bei kühlem Wetter daher sehr wichtig. Mützen aus Wolle halten die Temperatur angenehm warm. Neu eingetroffen sind auch die beliebten Schlupfmützen von ManyMonths.<\/p>",
+            "url": "shopify:\/\/collections\/mutzen-stirnbander",
+            "btn_name": "Mützen & Stirnbänder"
           }
         },
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8": {
+        "05f71cf6-7b93-47b0-b56f-f77333c12898": {
           "type": "item",
-          "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/Infobild-Advent-Wichteltuer.jpg",
-            "title": "Wichteltürchen",
-            "text": "<p>Wer hat denn hier diese Kekse angegessen und die Krümel nicht weggemacht? Wer hat alles Besteck aus der Besteckschublade in der ganzen Wohnung versteckt? Wohin führt denn diese Spur mit Glitzerstaub? Da ist bestimmt ein Wichtel eingezogen!<\/p>",
-            "url": "shopify:\/\/collections\/wichtelzauber",
-            "btn_name": "Wichtel einladen"
+            "img": "shopify:\/\/shop_images\/Collection-Kindermode-Strumphosen-socken.jpg",
+            "title": "Strumpfhosen & Socken aus Wolle",
+            "text": "<p>Wenn es draussen kalt ist, eignen sich als erste Kleidungsschicht Strumpfhosen aus Wolle super! Und an die Füsse Wollsocken: Sie geben warm und verhindern Schweissfüsse.<\/p>",
+            "url": "shopify:\/\/collections\/strumpfhosen-stulpen-socken",
+            "btn_name": "Strumpfis & Co"
           }
         }
       },
       "block_order": [
-        "be814ee1-dadc-46d9-a79e-6128f77f64d7",
-        "b7e797f2-1b5f-4151-a871-182489f8f988",
-        "a20d7289-674c-4546-a4f6-6102c2ab22c9",
-        "fff067e2-b952-4fd7-9f3f-8f4ffe2b23b8"
+        "b36b2098-d211-431d-acd0-23649bf238c2",
+        "8038429f-adf3-48b3-93d2-f37c76eec66f",
+        "0f45442c-cec0-47c4-8890-45ecdabc70da",
+        "05f71cf6-7b93-47b0-b56f-f77333c12898"
       ],
       "settings": {
         "name": "UNSERE EMPFEHLUNGEN",
-        "title": "Für Advent & Weihnachten"
+        "title": "Für den die kalte Jahreszeit"
       }
     },
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba": {
@@ -374,12 +421,12 @@
   "order": [
     "6b26ce6b-052d-410b-ae1c-e654b23ac8ee",
     "93c6b928-f3db-48ae-8d88-b0183db2c048",
-    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
+    "eb12502c-a978-4a64-8794-299bf7d22d27",
     "36e0d3e3-5bd7-406a-a6e0-7b82cebec1e4",
     "26c8d3c8-7ce7-4af3-9637-22df869f6e7b",
     "a0cd7d12-bf7a-4e82-8365-6c3379aab588",
     "32304844-b226-476a-b89c-c9bad2a32f6b",
-    "eb12502c-a978-4a64-8794-299bf7d22d27",
+    "3042eba3-91b9-4a6e-9e08-4e8237a86bf5",
     "bbe89286-5c0d-41cb-bf87-47d2d1fc7cba",
     "9c9bf7b0-233a-4e77-bba3-785994bab770",
     "87ca8f06-a903-47e5-8e13-7b5d55ff9427",

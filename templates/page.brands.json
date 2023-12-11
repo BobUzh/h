@@ -19,6 +19,14 @@
             "url": ""
           }
         },
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128": {
+          "type": "brand",
+          "settings": {
+            "title": "AllMatters",
+            "text": "<p>AllMatters wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. AllMatters engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>Die AllMatters Menstruationstasse besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
+            "url": ""
+          }
+        },
         "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855": {
           "type": "brand",
           "settings": {
@@ -222,6 +230,7 @@
       },
       "block_order": [
         "03a5b612-b625-42a9-b317-d384fc54ffd5",
+        "0307bdd9-f341-4fe4-b5b0-ef367a454128",
         "dcc3d9ca-1ffa-4b3f-81e0-1c58f24c8855",
         "83cbc6ca-d35d-4b22-b1aa-0252967e9f9f",
         "8155f92d-d0f4-45aa-b04c-e6e16ce98027",
@@ -325,6 +334,14 @@
           "settings": {
             "title": "Fresk",
             "text": "<p>Fresk ist eine holländische Bio-Baby-Lifestyle-Marke mit frischem, niedlichen Design und einem Hauch Vintage.<\/p><p>Fresk möchte nachhaltige und faire Produkte herstellen, weshalb sie 100% Bio-Baumwolle verwenden. Alle Artikel werden in Holland entworfen. Die Kleidung wird in der Türkei, die anderen Produkte unter streng kontrollierten und fairen Bedingungen in Indien oder China produziert.<\/p><p>Viele Fresk Produkte haben das GOTS-Gütesiegel erhalten, welches als weltweites Qualitätszeichen gilt - nicht nur für das Material sondern auch für den Herstellungsprozess und die gesamte Lieferkette.<\/p>",
+            "url": ""
+          }
+        },
+        "15155f04-b283-4f56-869e-de5075e3ecf6": {
+          "type": "brand",
+          "settings": {
+            "title": "Fridahild",
+            "text": "<p>Fridahild: Das ist liebevoll handgefertigter Haarschmuck in zeitlosem Design und aus hochwertigen Materialien und einem Hauch Nostalgie. Bei Fridahild gibt es aussergewöhnliche und ganz besondere Haaraccessoires zu entdecken, die in Wien von Hand gefertigt werden. Aus exklusiven Liberty London-, Leinen- und ausgewählten Motivstoffen werden Haarspangen, Zopfgummis und Schleifen gezaubert, die garantiert auffallen.<\/p>",
             "url": ""
           }
         },
@@ -467,6 +484,7 @@
         "3aedb558-ded3-4a97-97a8-3228464ad1e8",
         "da0c2267-22ea-46f8-ba2b-40e93966eaf2",
         "949bc0aa-bb91-4575-9f1a-535c333b23cd",
+        "15155f04-b283-4f56-869e-de5075e3ecf6",
         "c9102d9a-4f26-4a83-afb7-bf3d470c2b72",
         "5e1a5b19-5f0d-41bd-827b-639200e9725f",
         "51c3baf8-46ea-4408-8e38-5caadfed1c91",
@@ -800,14 +818,6 @@
             "url": ""
           }
         },
-        "f7fb1d09-19ce-4182-91a9-f8cd1f3e3b27": {
-          "type": "brand",
-          "settings": {
-            "title": "OrganiCup",
-            "text": "<p>OrganiCup wurde gegründet, um die Gesundheit während der Menstruation auf persönlicher, kultureller und globaler Ebene zu verbessern. OrganiCup engagiert sich dafür, dass Menstruationsprodukte weder unseren Körper noch die Umwelt belasten. Auch dafür, dass Menstruation kein Tabu mehr ist und dafür, dass jeder einfachen Zugang zu einer gesunden Lösung für die Menstruationszeit hat.<\/p><p>OrganiCup besteht zu 100% aus medizinisch unbedenklichem Silikon und enthält weder Zusätze noch Chemikalien.<\/p>",
-            "url": ""
-          }
-        },
         "88a593d9-9ed3-4654-a857-9cc45c0a9cad": {
           "type": "brand",
           "settings": {
@@ -880,6 +890,14 @@
             "url": ""
           }
         },
+        "c765f1ae-334b-496b-bbee-247fbdd38f67": {
+          "type": "brand",
+          "settings": {
+            "title": "Potette",
+            "text": "<p>Seit über 25 Jahren bietet die amerikanische Firma Kalencom mit Potette ein faltbares Reisetöpfchen an, das das Reisen mit Kindern entspannter macht.<\/p>",
+            "url": ""
+          }
+        },
         "f7f17304-b089-43b4-8004-9e1539c04679": {
           "type": "brand",
           "settings": {
@@ -939,7 +957,6 @@
         "b2224f8d-7c56-47d7-be10-d19d0cc63738",
         "663c82fa-dc0a-4ee7-8b22-3bc8ef36a663",
         "19fdb28a-1c5d-447a-a474-8bbaecc0b9f7",
-        "f7fb1d09-19ce-4182-91a9-f8cd1f3e3b27",
         "88a593d9-9ed3-4654-a857-9cc45c0a9cad",
         "96fd7ffa-ba5d-4d81-b8d8-b7248b442032",
         "58da63e4-dc72-4529-817f-66209cf08b5a",
@@ -949,6 +966,7 @@
         "de03a7ff-25aa-4864-b98f-7bae20d92a0a",
         "c5cca916-8a7a-4216-85e0-f865286d2cf7",
         "57bf30bf-5eaf-4d6d-a6dc-a1ace4d09686",
+        "c765f1ae-334b-496b-bbee-247fbdd38f67",
         "f7f17304-b089-43b4-8004-9e1539c04679",
         "c47c37b6-ed65-4baf-b48f-939518cd6989",
         "a5ed4d76-8dec-4c1c-9a98-8a339bd56b41",
